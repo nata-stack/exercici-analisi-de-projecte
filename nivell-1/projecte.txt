@@ -1,0 +1,46 @@
+﻿Projecte web Taller 57
+
+       1. Introducció al problema
+
+Taller 57 és un taller de serigrafia artesanal de Barcelona. Es dediquen principalment a imprimir obra gràfica per encàrrec o en col·laboració amb artistes, estudis de disseny, etc.
+Compten amb un perfil d’Instagram on publiquen alguns dels treballs que fan, i sovint els contacta gent per a adquirir còpies de les diferents obres.
+Ténen un arxiu amb força material imprès que els artistes deixen com a part del pagament per els seus serveis i el van venent quan algú els hi demana. Han pensat en fer una web on es mostri tot el que tenen i des d’on es pugui comprar.
+També els interessa donar a conèixer la feina que fan més extensament del que es fa a les xarxes socials i tenir algún formulari de contacte i/o per a sol·licitar pressupostos.
+       
+       2. Explicació del servei
+
+El servei consistiria en crear una web on presentar el taller i la seva forma de treballar, amb imatges i text que expliquin el procés artesanal que fan servir.
+En un altre apartat hi ha la botiga/catàleg online, on es mostra l’obra gràfica que ténen al seu arxiu. Aquestes obres es poden comprar, veure en imatges de bona qualitat i veure informació relativa a la obra. Es poden buscar per autor/a, per títol i també per color predominant (per exemple).
+També seria necessari possibilitar que puguin introduïr noves edicions, modificar les existents i mostrar quantes còpies queden de cada edició (stock).
+      
+      3. Extra
+
+Com a exemples de projectes similars:
+    • whiteduckeditions.net
+          Punts forts:
+            ▪ Té un menú que es queda fixe adalt quan fas scroll.
+            ▪ Visualment atractiva.
+            ▪ Blocs o seccions ben definides.
+        ◦ Puntos dèbils:
+            ▪ És massa ample tot, va de banda a banda de la pantalla de l’ordinador i es fa incòmode de mirar. Sembla que estigui feta per a un dispositiu més petit.
+            ▪ La botiga no està definida, no saps que és una botiga fins que no entres en un dels productes.
+    • faile.store
+          Punts forts:
+            ▪ L’ample és correcte, còmoda de mirar.
+            ▪ Menú lateral ben visible i còmode.
+        ◦ Punts dèbils:
+            ▪ D’entrada hi ha molt poc contingut i està desactualitzat.
+            ▪ Els sis primers ítems del menú porten a pàgines buides. Fins que no obres el setè no trobes més contingut.
+
+       
+
+
+
+
+
+
+
+
+
+
+
